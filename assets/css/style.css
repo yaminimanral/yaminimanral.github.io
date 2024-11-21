@@ -324,7 +324,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 400px;
+  max-height: 120px;
   overflow: hidden;
   transition: var(--transition-2);
 }
