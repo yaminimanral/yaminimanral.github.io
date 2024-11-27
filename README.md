@@ -1,4 +1,4 @@
-# yamini-pixel.github.io
+# yaminimanral.github.io
 
 Repo for personal website/portfolio. 
 
